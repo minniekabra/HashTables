@@ -1,5 +1,11 @@
 #python2
 
+'''
+This code implements a simple phone book manager using Hashing which is able to process operations like adding a number,
+deleting a number and finding a number
+'''
+
+
 def add(jobs):
     number = int(jobs[1])
     name = jobs[2]
