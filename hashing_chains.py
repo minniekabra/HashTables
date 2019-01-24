@@ -1,4 +1,9 @@
 #python2
+
+'''
+This code implements a hash table using the chaining scheme
+'''
+
 from __future__ import print_function
 
 def hash_value(S, m):
