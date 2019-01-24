@@ -1,4 +1,8 @@
 #python2
+'''
+This code finds pattern in a text using Rabin–Karp’s algorithm
+'''
+
 from __future__ import print_function
 
 def hash_value(S):
